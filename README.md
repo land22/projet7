@@ -1,2 +1,2 @@
 # projet7
-un nouveau pour un blog dans le but de perfection dans symfony
+un nouveau projet pour un blog dans le but de perfectionner dans symfony
